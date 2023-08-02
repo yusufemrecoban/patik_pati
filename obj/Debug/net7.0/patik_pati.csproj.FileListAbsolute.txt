@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\bin\Debug\net7.0\patik_pati.exe
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\bin\Debug\net7.0\patik_pati.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\bin\Debug\net7.0\patik_pati.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\bin\Debug\net7.0\patik_pati.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\bin\Debug\net7.0\patik_pati.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\refint\patik_pati.dll
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\patik_pati.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\patik_pati\obj\Debug\net7.0\ref\patik_pati.dll
